@@ -1,0 +1,33 @@
+.weather {
+	width: 65%;
+	margin: 5px auto 0;
+	text-align: center;
+	padding-top: 20px;
+	color: #fff;
+	height: 350px;
+}
+
+h2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.temperatures {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.temperatures p, .weather-state p {
+	margin-right: 10px;
+}
+
+.weather-state {
+	display: flex;
+	justify-content: center;
+}
+
+.weather img {
+	width: 100px;
+}

@@ -1,0 +1,23 @@
+.suggestions {
+	display: none;
+	overflow-y: auto;
+	height:  155px;
+	width: 62.8%;
+	text-align: left;
+	position: absolute;
+	margin-top: -20px;
+}
+
+.suggestions li {
+	list-style: none;
+	padding: 5px 15px;
+	background: rgba(255, 255, 255, .7)
+}
+
+
+.suggestions li:hover {
+	background: #58ACFA;
+	color: #fff;
+	cursor: pointer;
+}
+
