@@ -2,6 +2,8 @@ Weather app that fetches data from OpenWeatherMap API
 
 Search for any city, search suggestions included, and get current weather information.
 
+Demo: https://jackaj16.github.io/WeatherApp/
+
 ### `How to start this app on your computer`
 
 - Clone or download directory
